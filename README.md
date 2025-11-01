@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Backend API - Ăn gì hôm nay
 
 Backend server sử dụng **Express.js** + **Node.js** cho ứng dụng AnGiHomNay.
@@ -175,3 +176,6 @@ npm run test:gemini
 - Gemini model sẽ tự động chọn model tốt nhất có sẵn trong API key của bạn
 - CORS được cấu hình để cho phép tất cả origins (nên giới hạn trong production)
 - Express server hỗ trợ JSON body parsing với limit 10MB cho AI responses
+=======
+# AnGiHomNay_BE
+>>>>>>> 280323a68c906f53f70861a11da23e26ee0d409b
