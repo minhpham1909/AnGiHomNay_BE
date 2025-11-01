@@ -177,5 +177,3 @@ npm run test:gemini
 - CORS được cấu hình để cho phép tất cả origins (nên giới hạn trong production)
 - Express server hỗ trợ JSON body parsing với limit 10MB cho AI responses
 =======
-# AnGiHomNay_BE
->>>>>>> 280323a68c906f53f70861a11da23e26ee0d409b
